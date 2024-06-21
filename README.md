@@ -1,4 +1,4 @@
-### Olá! Eu sou a Gicélia Felix. 🐰 [![portugues](https://img.shields.io/badge/lang-pt--br-green.svg)] [![ingles](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/GiceliaFelix/GiceliaFelixIngles/commit/60a0ca208c3edadeca3b39afa6050c95a6d4cb4a)
+### Olá! Eu sou a Gicélia Felix. 🐰 [![portugues](https://img.shields.io/badge/lang-pt--br-green.svg)] [![ingles](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/GiceliaFelix/GiceliaFelixIngles/tree/main)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gic%C3%A9lia-felix-4421b3306/)
 
 ![Gicélia Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=GiceliaFelix&show_icons=true&theme=dracula)
