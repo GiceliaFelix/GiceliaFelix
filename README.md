@@ -9,8 +9,10 @@
 <img align="center" aLt="DOCKER" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img align="center" aLt="MONGODB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img align="center" aLt="MARIADB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img align="center" aLt="POSTGRES" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div> </br>
 
-Moro no Rio de Janeiro, Brasil e sou estudante de Sistemas de Informação, tenho experiência de mais de 6 anos em tecnologia, redes e administração e possuo diversas certificações nas tecnologias Java, Git, bancos de dados e Spring Boot e continuo aprendendo tanto na faculdade, quanto em cursos individuais me especializando todo dia um pouco mais. No momento estou aberta a propostas de emprego.
-Para mais informações acessar o meu LinkedIn. 
+Moro no Rio de Janeiro, Brasil e sou estudante de Sistemas de Informação, tenho experiência de mais de 6 anos em tecnologia, redes de internet e administração de empresas. 
+
+Conquistei diversas certificações nas tecnologias Java, Git, bancos de dados e Spring Boot e continuo aprendendo tanto na faculdade, quanto em cursos individuais me aperfeiçoando todo dia um pouco mais minhas habilidades em programação.
+No momento estou aberta a propostas de emprego. Para mais informações acessar o meu LinkedIn. 
 
 <!--
 **GiceliaFelix/GiceliaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
